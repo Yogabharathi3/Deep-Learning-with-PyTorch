@@ -90,9 +90,11 @@ print(torch.mm(x,y))
 
 ## Output:
 i) Import and set up PyTorch and NumPy.
+
 ![image](https://github.com/user-attachments/assets/6a6c8de4-370a-4094-9e1a-e8c094c3036e)
 
 ii) Create and manipulate tensors.
+
 ![image](https://github.com/user-attachments/assets/40a4d58d-eb59-421d-acac-7432fe5fb6c0)
 
 ![image](https://github.com/user-attachments/assets/aaf8bd07-91e4-47e1-81a5-ee92ef45dd5a)
@@ -102,6 +104,7 @@ ii) Create and manipulate tensors.
 ![image](https://github.com/user-attachments/assets/9e8708f7-45ee-431f-be3b-34ee5c193108)
 
 iii) Perform matrix operations.
+
 ![image](https://github.com/user-attachments/assets/5c402f88-ab43-4828-9f74-430a1645a850)
 
 ![image](https://github.com/user-attachments/assets/c7c547a7-cb27-48db-b13a-ea8ed109ec1c)
